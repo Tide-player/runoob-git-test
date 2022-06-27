@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 wangxin2
+=======
+wangxin3
+>>>>>>> Stashed changes
